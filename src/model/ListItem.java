@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="items")
+@Table(name="database_shopping")
 public class ListItem {
 	
 	@Id
